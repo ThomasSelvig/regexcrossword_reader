@@ -1,0 +1,4 @@
+thead .clue {
+  transform-origin: bottom right;
+  transform: translateY(-35px) rotate(-60deg);
+}
